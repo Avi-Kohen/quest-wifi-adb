@@ -67,16 +67,6 @@ python app.py
 
 ## העלאה ל-GitHub
 
-```bash
-git init
-git add .
-git commit -m "Initial Quest WiFi ADB GUI"
-git branch -M main
-git remote add origin https://github.com/YOUR_USER/quest-wifi-adb.git
-git push -u origin main
-```
-
-## בניית EXE בעתיד
 
 אפשר לארוז עם PyInstaller:
 
